@@ -14,5 +14,4 @@ conversations and will send the loaded conversation to anyone who joins so that
 they don't miss out on anything :). I have yet to establish white/black listing
 and recording IP's/usernames. Eventually I hope to eventually create some sort
 of logging in. It is a fun success :tada: and I don't plan on exposing it till I 
-feel done with it. And I mean done as in I don't care. For now, I really enjoy
-messing with it.
+feel done with it.
